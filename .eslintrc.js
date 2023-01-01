@@ -16,5 +16,7 @@ module.exports = {
     ecmaVersion: 2018,
   },
   rules: {
+    "no-param-reassign": 0,
+    "no-shadow": 0
   },
 };
